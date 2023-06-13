@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\bin\Debug\Keyloger.exe.config
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\bin\Debug\Keyloger.exe
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\bin\Debug\Keyloger.pdb
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.Form1.resources
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.exe
+C:\Users\Lenovo\source\repos\Keyloger\Keyloger\obj\Debug\Keyloger.pdb
